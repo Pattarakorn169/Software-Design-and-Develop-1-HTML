@@ -165,10 +165,73 @@
 ### บันทึกผลการทดลอง
 - รหัสเอกสาร HTML ที่เขียน:
 ```html
-[วางโค้ด HTML ที่นี่]
+[<!DOCTYPE html>
+<html lang="th">
+    <div style="text-align: center;">
+    <img src="images/products/KFC-Logo.png" 
+alt="โลโก้บริษัท"
+width="250">
+<div style="text-align: center;">
+    <p> KFC </p>
+</div>
+
+<head>
+    <meta charset="UTF-8">
+    <title>หน้าหลัก</title>
+</head>
+<nav>
+    <!-- ลิงก์ภายใน - ไปยังหน้าในเว็บไซต์เดียวกัน -->
+    <a href="https://www.kfc.co.th/">หน้าหลัก</a>
+    <a href="https://www.kfc.co.th/menu">ไปยังสินค้า</a>
+
+    </a>
+</nav>
+</html>
+<body>
+    KFC
+</body>
+</html>
+<section id="top">
+    <h1>เนื้อหาส่วนสำคัญ</h1>
+</section>
+เป็นร้านอาหารจานด่วนที่มีหลายสาขาทั่วโลกและเน้นอาหารประเภทไก่ทอด เคเอฟซีมีสำนักงานใหญ่อยู่ที่เมืองหลุยส์วิลล์ รัฐเคนทักกี สหรัฐ เคเอฟซีเป็นร้านอาหารฟาสต์ฟู๊ดหลายสาขาที่ใหญ่เป็นอันดับที่สองรองจากแมคโดนัลด์ ด้วยจำนวนร้าน 18,875 ร้านใน 118 ประเทศนับถึงเดือนธันวาคม 2013 เคเอฟซีเป็นบริษัทย่อยของยัม! แบรนด์ส ไอเอ็นซี บริษัทภัตตาคารที่เป็นเจ้าของพิซซ่าฮัท และทาโก้ เบลล์ อีกด้วย 
+<section id="products">
+    <h2>สินค้าของเรา</h2>
+</section>
+
+<figure>
+<img src="images/products/KFC mean.PNG" 
+    width="250"
+    height="200"
+     alt="แซนเดอร์ส ฮิต">
+    <figcaption>
+        ไก่ทอด 4 ชิ้น ไก่วิงซ์แซ่บ 2 ชิ้น นักเก็ตส์ 2 ชิ้น
+    </figcaption>
+<figure>
+   
+    <img src="images/products/kfc ka.PNG" 
+    width="250"
+    height="200"
+         alt="ชิคแอนด์แชร์ ทีมแซ่บ">
+    <figcaption>
+        ไก่วิงซ์แซ่บ 6 ชิ้น
+    </figcaption>
+
+<a>
+<!-- ลิงก์ไปยังจุดเชื่อมโยง -->
+<a href="https://www.kfc.co.th/">กลับสู่หน้าหลัก</a>
+<a href="https://www.kfc.co.th/menu">ไปยังสินค้า</a>
+
+<!-- ลิงก์อีเมล -->
+<a href="67030169@kmitl.ac.th">ส่งอีเมลหาเรา</a>
+
+<!-- ลิงก์โทรศัพท์ -->
+<a href="tel:+6622835247">โทร 0822835247</a>
+<a>
 ```
 - ภาพผลลัพธ์:
 [วางภาพ screenshot ที่นี่]
+![image](https://github.com/user-attachments/assets/72fb8e51-c613-4eb0-a0ec-e9edee3b3ee9)
 
 
 
