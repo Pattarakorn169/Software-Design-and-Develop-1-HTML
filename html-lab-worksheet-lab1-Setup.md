@@ -50,15 +50,15 @@
    - ตั้งชื่อไฟล์เป็น "test.html"
 2. พิมพ์โค้ด HTML พื้นฐาน:
    ```html
-   <!DOCTYPE html>
-   <html>
-   <head>
-       <title>ทดสอบ Live Server</title>
-   </head>
-   <body>
-       <h1>สวัสดี Live Server</h1>
-   </body>
-   </html>
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <title>เว็บเทสของ Pattarakorn Wongkamharn!</title>
+    </head>
+    <body>
+    <h1>สวัสดี Pattarakorn Wongkamharn!</h1>
+    </body>
+    </html>
    ```
 3. บันทึกไฟล์ (Ctrl+S)
 4. เริ่มใช้งาน Live Server โดยทำวิธีใดวิธีหนึ่ง:
@@ -75,5 +75,6 @@
   
 ### บันทึกผลการทดลอง
 [บันทึกภาพหน้าจอของผลลัพธ์การทดลอง]
+![image](https://github.com/user-attachments/assets/579ef5f2-74d1-4cf6-99f5-1e5f65767fd1)
 
 
